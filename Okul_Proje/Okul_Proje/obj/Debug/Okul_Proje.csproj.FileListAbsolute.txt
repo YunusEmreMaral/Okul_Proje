@@ -1,0 +1,16 @@
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\bin\Debug\Okul_Proje.exe.config
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\bin\Debug\Okul_Proje.exe
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\bin\Debug\Okul_Proje.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.csproj.AssemblyReference.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.Form1.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.Properties.Resources.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.csproj.GenerateResource.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.csproj.CoreCompileInputs.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.exe
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmOgrenciNotlar.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmOgretmen.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmKulup.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmDersler.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmOgrenci.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Okul_Proje\Okul_Proje\obj\Debug\Okul_Proje.FrmSınavNotlar.resources
